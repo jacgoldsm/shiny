@@ -1,0 +1,12 @@
+name: webbrCovid
+title: webbrCovid
+username:
+account: jacgoldsm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2721934
+bundleId: 3569062
+url: https://jacgoldsm.shinyapps.io/webbrCovid/
+when: 1598667639.26672
+asMultiple: FALSE
+asStatic: FALSE

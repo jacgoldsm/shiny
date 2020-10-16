@@ -1,0 +1,13 @@
+name: WebbrUbi
+title: WebbrUbi
+username:
+account: jacgoldsm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2699064
+bundleId: 3549366
+url: https://jacgoldsm.shinyapps.io/WebbrUbi/
+when: 1598230626.73055
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
